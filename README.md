@@ -32,29 +32,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B731&width=435&lines=%F0%9F%94%A5+Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
 
-```javascript
-const bilal = {
-    pronouns: "He" | "Him",
-    location: "Pakistan 🇵🇰",
-    currentFocus: ["Web Development", "DSA Mastery", "Open Source"],
-    funFact: "Every coding session starts with 'Let's do this!' 😁",
-    lifePhilosophy: "Code, Learn, Repeat ♾️",
-    
-    askMeAbout: ["C++", "Java", "DSA", "Web Dev", "Problem Solving"],
-    
-    technologies: {
-        languages: ["C++", "Java", "Python", "JavaScript", "PHP"],
-        frontend: ["HTML5", "CSS3", "React", "Bootstrap"],
-        backend: ["Node.js", "Express"],
-        databases: ["MongoDB", "MySQL", "Oracle"],
-        tools: ["Git", "VS Code", "Nginx", "Postman"]
-    },
-    
-    currentlyLearning: "Advanced Web Development & Cloud Technologies ☁️",
-    lookingToCollaborate: "Open Source Projects & Innovative Coding Challenges 🤝",
-    reachMe: "bilalwahla567@gmail.com 📧"
-};
-```
+- 🔭 I'm currently working on **innovative projects to sharpen my programming skills**
+- 🌱 I'm currently learning **Web Development** and expanding my tech stack
+- 👯 I'm looking to collaborate on **coding projects, CS fundamentals, and open-source initiatives**
+- 🤝 I'm looking for help with **beginner-friendly open-source contributions**
+- 💬 Ask me about **C++, Java, DSA, problem-solving, or any coding challenges**
+- 📫 How to reach me **bilalwahla567@gmail.com**
+- ⚡ Fun fact **Every coding session starts with a motivational "Let's do this!" 😁**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -117,40 +101,34 @@ const bilal = {
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
       <b>🏆 Code Alpha</b><br>
-      <sub>Virtual Internship Program (C++)</sub><br>
-      <a href="Certifications/CodeAlpha_Certificate.pdf">📜 View Certificate</a>
+      <sub>Virtual Internship Program (C++)</sub>
     </td>
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
       <b>🎓 Coursera</b><br>
-      <sub>Deep Learning AI: AI for Everyone</sub><br>
-      <a href="Certifications/Coursera_AI_Certificate.pdf">📜 View Certificate</a>
+      <sub>Deep Learning AI: AI for Everyone</sub>
     </td>
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
       <b>🌐 UC Davis</b><br>
-      <sub>Introduction to Web Development</sub><br>
-      <a href="Certifications/UCDavis_WebDev_Certificate.pdf">📜 View Certificate</a>
+      <sub>Introduction to Web Development</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"><br>
       <b>☕ NFTP MUET</b><br>
-      <sub>Introduction to Java Programming</sub><br>
-      <a href="Certifications/NFTP_Java_Certificate.pdf">📜 View Certificate</a>
+      <sub>Introduction to Java Programming</sub>
     </td>
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212257456-3e9410a7-20f6-404a-857a-a20dc8569719.gif" width="100"><br>
       <b>🔧 NFTP MUET</b><br>
-      <sub>Training in Technical Domain</sub><br>
-      <a href="Certifications/NFTP_Technical_Certificate.pdf">📜 View Certificate</a>
+      <sub>Training in Technical Domain</sub>
     </td>
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212257464-8f5c95b8-5e84-4928-ab54-f65c02d6e2d6.gif" width="100"><br>
       <b>🔍 Google</b><br>
-      <sub>Google Courses Certification</sub><br>
-      <a href="Certifications/Google_Certificate.pdf">📜 View Certificate</a>
+      <sub>Google Courses Certification</sub>
     </td>
   </tr>
 </table>
