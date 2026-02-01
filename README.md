@@ -1,1 +1,209 @@
-<div align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bilal%20Ahmed&fontSize=42&fontAlignY=30&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/> </div>  <div align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Ahmed;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;C%2B%2B+%26+Java+Expert+%E2%98%95;DSA+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Code+Innovator+%E2%9C%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /> </div>  <br>  <div align="center">   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>  <br>  <div align="center">   <a href="https://git.io/typing-svg">     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Passionate+About+Building+Scalable+Applications;%F0%9F%92%A1+Turning+Ideas+Into+Reality+Through+Code;%F0%9F%8C%9F+Exploring+New+Technologies+Every+Day;%E2%9C%A8+Committed+to+Clean+%26+Efficient+Code" alt="Subtitle Typing SVG" />   </a> </div>  <br>  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">  <p align="left">    <img src="https://komarev.com/ghpvc/?username=bilal-ahmed-01&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="bilal-ahmed-01" />  </p>  ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B731&width=435&lines=%F0%9F%94%A5+Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />  - 🔭 I'm currently working on **innovative projects to sharpen my programming skills** - 🌱 I'm currently learning **Web Development** and expanding my tech stack - 👯 I'm looking to collaborate on **coding projects, CS fundamentals, and open-source initiatives** - 🤝 I'm looking for help with **beginner-friendly open-source contributions** - 💬 Ask me about **C++, Java, DSA, problem-solving, or any coding challenges** - 📫 How to reach me **bilalwahla567@gmail.com** - ⚡ Fun fact **Every coding session starts with a motivational "Let's do this!" 😁**  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Expertise  <div align="center">  ### 💻 Programming Languages <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ### 🌐 Frontend Development <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="300">  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ### ⚙️ Backend & Databases <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ### 🔧 Tools & Technologies <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  </div>  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">  ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Certifications & Achievements  <div align="center">   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"> </div>  <table align="center">   <tr>     <td align="center" width="200">       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>       <b>🏆 Code Alpha</b><br>       <sub>Virtual Internship Program (C++)</sub>     </td>     <td align="center" width="200">       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>       <b>🎓 Coursera</b><br>       <sub>Deep Learning AI: AI for Everyone</sub>     </td>     <td align="center" width="200">       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>       <b>🌐 UC Davis</b><br>       <sub>Introduction to Web Development</sub>     </td>   </tr>   <tr>     <td align="center" width="200">       <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"><br>       <b>☕ NFTP MUET</b><br>       <sub>Introduction to Java Programming</sub>     </td>     <td align="center" width="200">       <img src="https://user-images.githubusercontent.com/74038190/212257456-3e9410a7-20f6-404a-857a-a20dc8569719.gif" width="100"><br>       <b>🔧 NFTP MUET</b><br>       <sub>Training in Technical Domain</sub>     </td>     <td align="center" width="200">       <img src="https://user-images.githubusercontent.com/74038190/212257464-8f5c95b8-5e84-4928-ab54-f65c02d6e2d6.gif" width="100"><br>       <b>🔍 Google</b><br>       <sub>Google Courses Certification</sub>     </td>   </tr> </table>  <div align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9C%A8+6+Professional+Certifications+%26+Counting!;%F0%9F%8E%AF+Committed+to+Continuous+Learning;%F0%9F%9A%80+Growing+Expertise+Every+Day" alt="Certification Typing" /> </div>  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics  <div align="center">   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-ahmed-01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-ahmed-01&theme=radical&hide_border=true" alt="GitHub Streak"/> </div>  <div align="center">   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-ahmed-01&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilal-ahmed-01&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/> </div>  <div align="center">   <img src="https://github-profile-trophy.vercel.app/?username=bilal-ahmed-01&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/> </div>  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">  ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me  <div align="center">   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" />   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">   <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d89f97e.png" width="200" /> </div>  <div align="center">    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:bilalwahla567@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/bilal-ahmed-01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/bilal-ahmed-01) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://bilal-ahmed-portfolio.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/bilal_ahmed_01)  </div>  <div align="center">   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"> </div>  <div align="center">    ### 💭 Daily Inspiration    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>  </div>  <div align="center">   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">      ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Show some ❤️ by starring repositories!    </div>  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">  <div align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%99%8F+Thanks+for+visiting+my+profile!;%F0%9F%A4%9D+Let's+collaborate+and+build+amazing+things!;%F0%9F%92%BB+Happy+Coding+%26+Keep+Learning!;%E2%9C%A8+Dream+Big%2C+Code+Bigger!;%F0%9F%9A%80+The+Future+is+Ours+to+Build!" alt="Footer Typing SVG" /> </div>  <div align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/> </div>  <div align="center">   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500"> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bilal%20Ahmed&fontSize=42&fontAlignY=30&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Ahmed;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;C%2B%2B+%26+Java+Expert+%E2%98%95;DSA+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Code+Innovator+%E2%9C%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Passionate+About+Building+Scalable+Applications;%F0%9F%92%A1+Turning+Ideas+Into+Reality+Through+Code;%F0%9F%8C%9F+Exploring+New+Technologies+Every+Day;%E2%9C%A8+Committed+to+Clean+%26+Efficient+Code" alt="Subtitle Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bilal-ahmed-01&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="bilal-ahmed-01" /> 
+</p>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B731&width=435&lines=%F0%9F%94%A5+Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+
+- 🔭 I'm currently working on **innovative projects to sharpen my programming skills**
+- 🌱 I'm currently learning **Web Development** and expanding my tech stack
+- 👯 I'm looking to collaborate on **coding projects, CS fundamentals, and open-source initiatives**
+- 🤝 I'm looking for help with **beginner-friendly open-source contributions**
+- 💬 Ask me about **C++, Java, DSA, problem-solving, or any coding challenges**
+- 📫 How to reach me **bilalwahla567@gmail.com**
+- ⚡ Fun fact **Every coding session starts with a motivational "Let's do this!" 😁**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Expertise
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Frontend Development
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="300">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Databases
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔧 Tools & Technologies
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Certifications & Achievements
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+      <b>🏆 Code Alpha</b><br>
+      <sub>Virtual Internship Program (C++)</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
+      <b>🎓 Coursera</b><br>
+      <sub>Deep Learning AI: AI for Everyone</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
+      <b>🌐 UC Davis</b><br>
+      <sub>Introduction to Web Development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"><br>
+      <b>☕ NFTP MUET</b><br>
+      <sub>Introduction to Java Programming</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257456-3e9410a7-20f6-404a-857a-a20dc8569719.gif" width="100"><br>
+      <b>🔧 NFTP MUET</b><br>
+      <sub>Training in Technical Domain</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257464-8f5c95b8-5e84-4928-ab54-f65c02d6e2d6.gif" width="100"><br>
+      <b>🔍 Google</b><br>
+      <sub>Google Courses Certification</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9C%A8+6+Professional+Certifications+%26+Counting!;%F0%9F%8E%AF+Committed+to+Continuous+Learning;%F0%9F%9A%80+Growing+Expertise+Every+Day" alt="Certification Typing" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-ahmed-01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-ahmed-01&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-ahmed-01&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilal-ahmed-01&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bilal-ahmed-01&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d89f97e.png" width="200" />
+</div>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:bilalwahla567@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/bilal-ahmed-01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/bilal-ahmed-01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://bilal-ahmed-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/bilal_ahmed_01)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
+
+<div align="center">
+  
+### 💭 Daily Inspiration
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Show some ❤️ by starring repositories!
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%99%8F+Thanks+for+visiting+my+profile!;%F0%9F%A4%9D+Let's+collaborate+and+build+amazing+things!;%F0%9F%92%BB+Happy+Coding+%26+Keep+Learning!;%E2%9C%A8+Dream+Big%2C+Code+Bigger!;%F0%9F%9A%80+The+Future+is+Ours+to+Build!" alt="Footer Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+</div>
